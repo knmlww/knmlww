@@ -46,12 +46,6 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 
 ---
 
-### 🌱 Let's Connect!  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sincerarsr/)  
-
-
-
 ## 📌 Current Focus  
 - 🏗 **Exploring:** OpenID Connect (OIDC), Kubernetes, AI-powered applications  
 - 🚀 **Building:** Scalable backend architectures & high-performance APIs  
@@ -68,5 +62,9 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 ![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knmlww&show_icons=true&theme=dark)  
 
 ---
+### 🌱 Let's Connect!  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sincerarsr/)  
+
 
 🔥 **"Building solutions, solving problems, and pushing boundaries."** 🔥
