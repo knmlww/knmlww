@@ -30,26 +30,25 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"> 
 
 **🗄️ Databases:**
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> 
 
 
 ## 🚀 Active Projects  
 
-| Project | Description | Status |
-|---------|------------|--------|
-| [🛠 My OpenID Connect Service](https://github.com/your-github-repo) | Implementing secure authentication using OIDC. | 🔄 In Progress |
-| [📡 Real-Time Log Monitoring](https://github.com/your-github-repo) | Setting up ELK/Grafana+Loki for centralized log management. | ✅ Completed |
-| [🎭 3D Mannequin App](https://github.com/your-github-repo) | Developing a mobile app for trying on clothes using 3D models. | 🔄 In Progress |
-| [🤖 Discord Bot](https://github.com/your-github-repo) | Creating a bot for automating team workflows on Discord. | 🛠 Planning |
+| Project | Description | Languages| Status |
+|---------|------------|--------|--------|
+| [🛍️ Sera](https://github.com/your-github-repo) | AI-powered app for virtual outfit try-on and wardrobe management. |Java, Springboot| 🔄 In Progress |
+| [🗡️ swordforbible](https://github.com/knmlww/swordofbible) | A Christian-based personality test to explore faith and character. |Javascript, React | ✅ Completed |
+| [🗡️ swordforbible_API](https://github.com/knmlww/swordofbible_API) | swordforbible API server.| Java, Springboot| ✅ Completed |
+
 
 ---
 
 ### 🌱 Let's Connect!  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sincerarsr/)  
 
 
 
@@ -60,13 +59,14 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 
 ---
 
-## 📈 GitHub Stats  
-
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knmlww&show_icons=true&theme=dark)  
+## 📈 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knmlww)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🌱 Let's Connect!  
+## 📈 GitHub Stats  
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knmlww&show_icons=true&theme=dark)  
 
+---
 
 🔥 **"Building solutions, solving problems, and pushing boundaries."** 🔥
