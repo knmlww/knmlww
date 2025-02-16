@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kyle!  
+# 👋 Hey, I'm SANGRYOL LEE!  
 
 🚀 **Proactive Developer | Problem-Solver | Team Player**  
 
