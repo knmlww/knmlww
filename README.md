@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SANGRYOL LEE!  
+# 👋 Hey, I'm SANGRYEOL LEE!  
 
 🚀 **Proactive Developer | Problem-Solver | Team Player**  
 
