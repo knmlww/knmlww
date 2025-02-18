@@ -9,30 +9,40 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 ## 🚀 Tech Stack  
 
 **💻 Languages:**  
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
 **🚀 Frameworks & Libraries:**  
+<p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
+</p>
 
 **🛠 DevOps & Tools:**  
+<p>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> 
+</p>
 
 **☁️ Cloud & Servers:**  
+<p>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"> 
+</p>
 
-**🗄️ Databases:**
+**🗄️ Databases:**  
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> 
 
 
 ## 🚀 Active Projects  
@@ -40,8 +50,8 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 | Project | Description | Languages| Status |
 |---------|------------|--------|--------|
 | [🛍️ Sera](https://github.com/your-github-repo) | AI-powered app for virtual outfit try-on and wardrobe management. |Java, Springboot| 🔄 In Progress |
-| [🗡️ swordforbible](https://github.com/knmlww/swordofbible) | A Christian-based personality test to explore faith and character. |Javascript, React | ✅ Completed |
-| [🗡️ swordforbible_API](https://github.com/knmlww/swordofbible_API) | swordforbible API server.| Java, Springboot| ✅ Completed |
+| [🗡️swordofbible](https://github.com/knmlww/swordofbible) | A Christian-based personality test to explore faith and character. |Javascript, React | ✅ Completed |
+| [🗡️swordofbible_API](https://github.com/knmlww/swordofbible_API) | swordofbible API server.| Java, Springboot| ✅ Completed |
 
 
 ---
