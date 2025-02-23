@@ -50,8 +50,8 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 | Project | Description | Languages| Status |
 |---------|------------|--------|--------|
 | [🛍️ Sera](https://github.com/your-github-repo) | AI-powered app for virtual outfit try-on and wardrobe management. |Java, Springboot| 🔄 In Progress |
-| [🗡️swordofbible](https://github.com/knmlww/swordofbible) | A Christian-based personality test to explore faith and character. |Javascript, React | ✅ Completed |
-| [🗡️swordofbible_API](https://github.com/knmlww/swordofbible_API) | swordofbible API server.| Java, Springboot| ✅ Completed |
+| [🗡️swordofbible](https://github.com/knmlww/swordofbible) | A Christian-based personality test to explore faith and character. |Javascript, React | 🔨 Ongoing Maintenance |
+| [🗡️swordofbible_API](https://github.com/knmlww/swordofbible_API) | swordofbible API server.| Java, Springboot| 🔨 Ongoing Maintenance |
 
 
 ---
