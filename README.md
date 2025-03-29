@@ -64,12 +64,12 @@ I specialize in **backend development** and **cloud infrastructure**, always see
 ---
 
 ## 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knmlww)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knmlww)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 ---
 
 ## 📈 GitHub Stats  
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knmlww&show_icons=true&theme=dark)  
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knmlww&show_icons=true&theme=dark&count_private=true)  
 
 ---
 ### 🌱 Let's Connect!  
